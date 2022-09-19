@@ -35,4 +35,5 @@ In the August Peak Hours visual, bike trips peak during the hours of 5 PM-6 PM d
 ## Summary: 
 In conclusion, after creating the visualizations, we can see all sorts of information from peak hours to gender distribution. In the case of New York City, there will be high bike demand due to there being a lot of traffic and high transportation costs. As for Des Moines, the case might be more complicated due to being more affordable and having less traffic than NYC. To get a better understanding of Des Moines, two good visualizations to make would be a comparison between Des Moines and NYC on how much traffic is experienced in people’s commutes to work and the ages of the bike users to see if it fits in with the demographics of Des Moines. Without knowing more information, it may not be the best time to begin operations in Iowa just yet, but we are very close.
 
+Tableau Public [link to dashboard]: https://public.tableau.com/app/profile/jorge.jurado/viz/BikesharingNYC_16636236473650/Story1?publish=yes
 
